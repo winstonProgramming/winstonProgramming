@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Winston</h1>
-<h3 align="center">A passionate frontend developer from NC, USA</h3>
+<h1 align="center">Hello world, I'm Winston</h1>
+<h3 align="center">A enthusiastic developer from NC, USA</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
