@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, I'm Winston</h1>
-<h3 align="center">An enthusiastic developer from NC, USA</h3>
+<h3 align="center">Enthusiastic developer from NC, USA</h3>
 <h3 align="left">Contact me at winstona2008@icloud.com ✉️</h3>
 
 <h3 align="left">Languages and Tools:</h3>
